@@ -1,0 +1,19 @@
+[project]
+name = "langchain-course"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "black>=26.10.1",
+    "dotenv>=0.9.9",
+    "google>=3.0.0",
+    "google-genai>=3.5.0",
+    "isort>=9.0.2",
+    "langchain>=1.5.1",
+    "langchain-anthropic>=1.7.11",
+    "langchain-ollama>=1.1.0",
+    "langchain-openai>=1.8.2",
+    "pandas>=3.1.1",
+    "python-dotenv>=1.2.4",
+]
